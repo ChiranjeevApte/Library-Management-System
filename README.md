@@ -2,6 +2,9 @@
 
 To Run this project, 
 
+> Make Sure django, djangorestframework & mysql is installed.
+Other wise you can download it using these links - [Django](https://pypi.org/project/Django/), [Django REST FrameWork](https://pypi.org/project/djangorestframework/), [MySQL](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
+
 1. create database naming library in mysql.
 
 2. Go to [library_management_system -> settings.py](library_management_system/settings.py)   and Enter your user and password in DATABASES part.
