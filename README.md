@@ -4,7 +4,7 @@ To Run this project,
 
 1. create database naming library in mysql.
 
-2. [Go to library_management_system -> settings.py](library_management_system/settings.py)   and Enter your user and password in DATABASES part.
+2. Go to [library_management_system -> settings.py](library_management_system/settings.py)   and Enter your user and password in DATABASES part.
 
 3. then run following commands:
    ```
